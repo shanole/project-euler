@@ -1,1 +1,4 @@
-const euler;
+export const euler = (num) =>
+{
+  return;
+}
